@@ -1,0 +1,2 @@
+docker-registry-core>=1,<2
+gcs-oauth2-boto-plugin>=1.3
