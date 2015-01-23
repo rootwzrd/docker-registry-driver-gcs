@@ -1,3 +1,5 @@
+> This driver is not maintained anymore. Please consider moving to Google's version: https://github.com/GoogleCloudPlatform/docker-registry-driver-gcs
+
 # Docker registry gcs driver
 
 This is a [docker-registry backend driver](https://github.com/dotcloud/docker-registry/tree/master/depends/docker-registry-core) based on the [gcs](http://reverbrain.com/gcs/) key-value storage.
